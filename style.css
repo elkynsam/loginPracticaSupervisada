@@ -1,0 +1,8 @@
+.imgs img {
+    width: 600px; 
+    height: 550px; 
+    object-fit: contain; 
+    display: block;
+    margin: 0 auto;
+  }
+  
